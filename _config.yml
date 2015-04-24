@@ -19,7 +19,7 @@ paginate:            5
 # About/contact
 author:
   name:              IEEE IIT
-  url:               http://ieee.iit.edu/
+  url:               
   email:             ieee@iit.edu
 
 # Custom vars
